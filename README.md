@@ -1,5 +1,5 @@
 I am Javeria Javaid <br>
-SOftware Engineer Student
+Software Engineer Student
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javeriajavaid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javeriajavaid1711@gmail.com) 
 
